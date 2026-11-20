@@ -23,6 +23,7 @@ New here? Sign up first with [https://make.fun/r/zkz6chz4](https://make.fun/r/zk
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
 - [2. Pick a bounty](#2-pick-a-bounty)
+- [What to build first](#what-to-build-first)
 - [3. Get the kit](#3-get-the-kit)
 - [4. Build your entry](#4-build-your-entry)
 - [5. Submit your entry](#5-submit-your-entry)
@@ -121,6 +122,24 @@ The front page lists every bounty under Trending, New, and Ending soon, with cat
 - **Phases**: when entries close and when the final results land
 
 Read the rules first. Some bounties need extra software or an account somewhere, and the page says so up front. A good first bounty is a small one with a clear task and a deadline at least a day away — you want time to build, check, and fix.
+
+## What to build first
+
+If you have an account and no idea what to enter, pick one of these three. They are the easiest first entries because the finish line is obvious — you can tell whether yours works before you submit it.
+
+### 1. A small browser game
+
+Snake, Tetris, 2048, a memory game. The game itself is the specification: the rules already live in your head, there is no data to fetch, and you can play-test it in the browser in a minute. Most game bounties ship a starter entry — copy it in, run the local grade on it before you change anything, then make one clear improvement (a new mode, a level system, a cleaner layout) instead of building from zero.
+
+### 2. A one-page tool or dashboard
+
+A converter, a calculator, a price tracker, a leaderboard that pulls real data and shows it cleanly. One page, no backend, no accounts. The test is simple: open it, use it, does it give the right answer? These entries are easy to grade locally, and a tidy, readable page often beats a clever one that is hard to use.
+
+### 3. A guide or a growth entry
+
+Write the guide you wish you had found, or take a growth bounty that rewards bringing real people in. There is no code to debug — the skill is explaining clearly and sharing honestly. This guide itself is an entry of that kind. If you can explain a bounty better than its own page does, you can enter one.
+
+For any of the three: read the rules first, check the deadline is at least a day away, and run the local grade on the starter before you write a line. A first entry that passes the checks teaches you the whole loop; a from-scratch build that gets rejected teaches you only the rejection.
 
 ## 3. Get the kit
 
